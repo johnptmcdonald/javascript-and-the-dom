@@ -1,6 +1,6 @@
 
 
-console.log("This is your javascript console. If you see this message, you're good to go! Go ahead and run task_one() through task_five() right here");
+console.log("This is your javascript console speaking. If you see this message, you're good to go! Go ahead and run task_one() through task_five() right here");
 
 
 function task_one(){
