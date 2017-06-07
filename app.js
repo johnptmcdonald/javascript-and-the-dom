@@ -1,1 +1,0 @@
-document.getElementById('content').innerHTML = 'Javascript is FUN'
